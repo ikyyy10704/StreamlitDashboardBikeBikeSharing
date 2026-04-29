@@ -1,0 +1,8 @@
+Jika Anda telah men-deploy (hosting) dashboard ini ke Streamlit Cloud, masukkan URL-nya di sini agar reviewer bisa langsung membukanya tanpa harus meng-install.
+
+Contoh: 
+https://velodash-analytics-bikesharing.streamlit.app/
+
+Jika Anda belum men-deploy (atau mengalami error saat deploy), cukup isi dengan:
+- "Belum di-deploy" 
+- Lokal URL: http://localhost:8502
